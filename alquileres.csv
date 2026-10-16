@@ -1,0 +1,3 @@
+id_alquiler,id_scooter,cliente,fecha_inicio,fecha_fin,tarifa_por_minuto,pago
+1,SC-045,Juan Perez,2026-09-28 10:00,2026-09-28 10:45,150.0,0.0
+2,SC-012,Ana Gomez,2026-09-28 09:15,,100.0,0.0
